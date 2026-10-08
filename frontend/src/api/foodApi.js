@@ -1,7 +1,7 @@
 import api from "./axios";
 const unwrap = (response) => response.data?.data ?? response.data;
 export async function getRestaurantLocations() {
-  return unwrap(await api.get("/restaurants/locations"));
+  return unwrap(await api.get("/restaurants/location"));
 }
 export async function getRestaurants(params = {}) {
   return unwrap(await api.get("/restaurants", { params }));
