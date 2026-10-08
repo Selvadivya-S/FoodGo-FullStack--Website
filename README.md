@@ -392,7 +392,7 @@ http://localhost:5173
 
 ## GitHub Repository
 
-[https://github.com/Selvadivya-S/FoodGo](https://github.com/Selvadivya-S/FoodGo)
+[https://github.com/Selvadivya-S/FoodGo-FullStack--Website](https://github.com/Selvadivya-S/FoodGo-FullStack--Website)
 
 ---
 
