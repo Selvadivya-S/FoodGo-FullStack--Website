@@ -388,7 +388,7 @@ http://localhost:5173
 
 ## Backend
 
-[https://food-go-full-stack-website-mdc8.vercel.app/api](https://food-go-full-stack-website-mdc8.vercel.app/api)
+[https://food-go-full-stack-website-mdc8.vercel.app/](https://food-go-full-stack-website-mdc8.vercel.app/)
 
 ## GitHub Repository
 
